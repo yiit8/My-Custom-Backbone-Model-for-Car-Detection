@@ -6,3 +6,4 @@
  ---------------------------------------------------------------------------------------------------------------------------------------------------
  But i went with difficult way, labeled 2000 classification images with labellmg and combined my two datasets to create a new dataset.
  ---------------------------------------------------------------------------------------------------------------------------------------------------
+![Alt text](https://production-media.paperswithcode.com/methods/Screen_Shot_2020-05-24_at_5.10.31_PM.png "Optional title")
