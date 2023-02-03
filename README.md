@@ -7,4 +7,9 @@ In this project i tried to create an object detection model to predict 8 differe
  ---------------------------------------------------------------------------------------------------------------------------------------------------
  But i went with difficult way, labeled 2000 classification images with labellmg and combined my two datasets to create a new dataset.
  ---------------------------------------------------------------------------------------------------------------------------------------------------
+# Choice of Model
+---------------------------------------------------------------------------------------------------------------------------------------------------
+I've chosen pre-trained Faster R-CNN model for implementation. Below there is a figure showing the training stages of Faster R-CNN
+
 ![Alt text](https://production-media.paperswithcode.com/methods/Screen_Shot_2020-05-24_at_5.10.31_PM.png "Optional title")
+# What next?
