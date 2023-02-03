@@ -4,4 +4,4 @@
  ---------------------------------------------------------------------------------------------------------------------------------------------------
  As a starting point i thought like i would train a classification model, then use the weights of this model to fine-tune an object detection model
  ---------------------------------------------------------------------------------------------------------------------------------------------------
- But i went with difficult way, labeled 2000 classification images with labellmg and combined my two datasets to create a new dataset.
+ # But i went with difficult way, labeled 2000 classification images with labellmg and combined my two datasets to create a new dataset.
