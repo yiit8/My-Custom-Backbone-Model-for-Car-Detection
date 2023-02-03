@@ -12,4 +12,7 @@ In this project i tried to create an object detection model to predict 8 differe
 I've chosen pre-trained Faster R-CNN model for implementation. Used Resnet50 Architecture as a backbone. Below there is a figure showing the training stages of Faster R-CNN
 
 ![Alt text](https://production-media.paperswithcode.com/methods/Screen_Shot_2020-05-24_at_5.10.31_PM.png "Optional title")
-# What next?
+# Inference
+---------------------------------------------------------------------------------------------------------------------------------------------------
+There are test images in Inference.ipynb to see how my model performs.
+
