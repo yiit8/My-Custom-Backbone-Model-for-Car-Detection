@@ -1,4 +1,5 @@
-# Introduction 
+# Introduction
+---------------------------------------------------------------------------------------------------------------------------------------------------
 In this project i tried to create an object detection model to predict 8 different classes of vehicles
 ---------------------------------------------------------------------------------------------------------------------------------------------------
  I had two different datasets. One for object detection who had 8 classes, the other one for classification who had 2 classes
